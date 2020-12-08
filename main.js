@@ -36,6 +36,7 @@ function createListElement(){
     function deleteListItem(){
         li.classList.add("delete");
     }
+
 }
 
 // function ajouter une li après clique
